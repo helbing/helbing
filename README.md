@@ -20,7 +20,7 @@ a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
   ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-%23FFD500?style=flat-square&logo=shell&logoColor=white)
 
-- 🔭 I’m currently focusing on: 
+- 🔭 I'm currently focusing on: 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![Istio](https://img.shields.io/badge/Istio-%23466BB0?style=flat-square&logo=istio&logoColor=white)
 
