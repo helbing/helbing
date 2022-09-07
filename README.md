@@ -1,4 +1,4 @@
-**Hi there 👋, I'm Bruce Huang**
+### Hi there 👋, I'm Bruce Huang.
 
 a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
 
