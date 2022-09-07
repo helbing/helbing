@@ -2,8 +2,6 @@
 
 a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
 
-<br>
-
 - 🚀 I use daily:
   ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
