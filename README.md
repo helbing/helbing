@@ -4,14 +4,6 @@ a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
 
 <br>
 
-[![Github](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:helbingxxx@gmail.com)
-[![Github](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helbing)
-[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helbingxxx)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helbingxxx)
-[![Medium](https://img.shields.io/badge/medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@helbingxxx)
-
-<br>
-
 - 🚀 I use daily:
   ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -25,6 +17,14 @@ a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
   ![Istio](https://img.shields.io/badge/Istio-%23466BB0?style=flat-square&logo=istio&logoColor=white)
 
 - 🌱 Looking forward to having you chat with me about Cloud-Native.
+
+<br>
+
+[![Github](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:helbingxxx@gmail.com)
+[![Github](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helbing)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helbingxxx)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helbingxxx)
+[![Medium](https://img.shields.io/badge/medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@helbingxxx)
 
 <br>
 
