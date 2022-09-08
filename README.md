@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bruce Huang.
 
-a Gopher, a Full-Stack Developer, also focuses on Cloud-Native.
+a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
 
 - 🚀 I use daily:
   ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
