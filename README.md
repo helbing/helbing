@@ -12,7 +12,6 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
 
 - 🔭 I'm currently focusing on: 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  ![Dapr](https://img.shields.io/badge/Dapr-%230D2192?style=flat-square&logo=dapr&logoColor=white)
   ![Istio](https://img.shields.io/badge/Istio-%23466BB0?style=flat-square&logo=istio&logoColor=white)
 
 - 🌱 Looking forward to having you chat with me about Cloud-Native.
