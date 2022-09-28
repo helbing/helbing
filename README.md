@@ -10,6 +10,10 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
   ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-%23FFD500?style=flat-square&logo=shell&logoColor=white)
 
+- I'm currently learning: 
+  ![English](https://img.shields.io/badge/English-%23E62A47?style=flat-square&logoColor=white) 
+  ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
+
 - 🔭 I'm currently focusing on: 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![Istio](https://img.shields.io/badge/Istio-%23466BB0?style=flat-square&logo=istio&logoColor=white)
@@ -27,11 +31,3 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=helbing&count_private=true&show_icons=true" />
-
-<br>
-
-<div align="center">
-  <a href="https://ko-fi.com/helbingxxx" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" />
-  </a>
-</div> 
