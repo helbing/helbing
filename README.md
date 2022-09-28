@@ -10,7 +10,7 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
   ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-%23FFD500?style=flat-square&logo=shell&logoColor=white)
 
-- I'm currently learning: 
+- 💥 I'm currently learning: 
   ![English](https://img.shields.io/badge/English-%23E62A47?style=flat-square&logoColor=white) 
   ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
 
