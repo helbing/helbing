@@ -30,4 +30,7 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=helbing&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=helbing&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=helbing">
+
+
