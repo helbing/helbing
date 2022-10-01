@@ -9,6 +9,7 @@ a Gopher, a Full-Stack Engineer, also focuses on Cloud-Native.
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-%23FFD500?style=flat-square&logo=shell&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat-square&logo=obsidian&logoColor=white)
 
 - 💥 I'm currently learning: 
   ![English](https://img.shields.io/badge/English-%23E62A47?style=flat-square&logoColor=white) 
